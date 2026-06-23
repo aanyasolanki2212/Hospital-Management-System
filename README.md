@@ -1,2 +1,14 @@
-# Hospital-Management-System
-A Python-based Hospital Management System for managing patient records.
+# Hospital Management System
+
+## Features
+- Add Patient Records
+- Search Patient Records
+- View Patient Records
+- Delete Patient Records
+- Exit
+
+## Technology Used
+- Python
+
+## Author
+Aanya Solanki
